@@ -1,0 +1,42 @@
+-> // used to assign variables
+
+calc // used to carry out calculations (e.g. 5+7)
+
+slv // used to solve equations (e.g. z + 17 = 25)
+
+|| // used to add comments
+
+show // print statement
+
+
+* // multiply
+
+div // divide
+
+// // shows remainder of a division
+
+/ // fractions
+
++ // addition
+
+- // subtraction
+
+= // used within the slv function to show answer of equation
+
+!= // not equal to
+
+< // less than
+
+> // greater than
+
+<= // less than or equal to
+
+>= // greater than or equal to
+
+
+.graph(max-X, max-Y) // set up graph
+
+.addLine(gradient, x, y-intercept, name) // add a line to a graph
+
+.removeLine(name) // remove a line from a graph
+
