@@ -11,11 +11,9 @@ show // print statement
 
 * // multiply
 
-div // divide
+/ // divide
 
 // // shows remainder of a division
-
-/ // fractions
 
 + // addition
 
