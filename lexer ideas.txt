@@ -33,10 +33,6 @@ recursion(arguments) //
 
 >= // greater than or equal to
 
-; // placed at the end of a line (like swift)
-
-
-
 
 .graph(max-X, max-Y) // set up graph
 
