@@ -1,12 +1,12 @@
 -> // used to assign variables
 
-calc // used to carry out calculations (e.g. 5+7)
+calc() // used to carry out calculations (e.g. 5+7)
 
-slv // used to solve equations (e.g. z + 17 = 25)
+solv() // used to solve equations (e.g. z + 17 = 25)
 
 || // used to add comments
 
-show // print statement
+show() // print statement
 
 
 * // multiply
